@@ -12,3 +12,4 @@ Enter a number or enter 0 to stop: 0
 Product: 60
 
 '''
+num = int(input("Enter a number or 0 to stop: ")
